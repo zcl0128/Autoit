@@ -11,5 +11,5 @@
 
 ## 使用
 
-* [Autoit学习使用](shi-yong/autoit-xue-xi-shi-yong.md)
 * [Autoit资源查找](shi-yong/autoit-zi-yuan-cha-zhao.md)
+* [Autoit学习使用](shi-yong/autoit-xue-xi-shi-yong.md)
